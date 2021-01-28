@@ -119,47 +119,22 @@
                 </div>
                 <div class="card-body">
                     <div class="conatiner">
-                        <div class="reciever-wrapper d-flex pt-2 pb-2">
-                            <div class="reciever-icon">
-                                <img src="assets/boy.svg" class="w-100">
+                        <div *ngFor="let data of userData">
+                            <div class="reciever-wrapper d-flex pt-2 pb-2" *ngIf="data.userType === 'reciever'">
+                                <div class="reciever-icon">
+                                    <img src="assets/boy.svg" class="w-100">
+                                </div>
+                                <div class="reciever-message">
+                                    <span class="inner-reciever-message">{{ data.userMessage }}</span><br />
+                                    <span class="time">{{ data.time }}</span>
+                                </div>
                             </div>
-                            <div class="reciever-message">
-                                <span class="inner-reciever-message">Hello there!</span>
-                            </div>
-                        </div>
 
-                        <div class="reciever-wrapper d-flex pt-2 pb-2">
-                            <div class="reciever-icon">
-                                <img src="assets/boy.svg" class="w-100">
-                            </div>
-                            <div class="reciever-message">
-                                <span class="inner-reciever-message">I need help regarding online banking</span>
-                            </div>
-                        </div>
-
-                        <div class="reciever-wrapper d-flex pt-2 pb-2">
-                            <div class="reciever-icon">
-                                <img src="assets/boy.svg" class="w-100">
-                            </div>
-                            <div class="reciever-message">
-                                <span class="inner-reciever-message">I was trying to login but it's not working</span>
-                            </div>
-                        </div>
-
-                        <div class="reciever-wrapper d-flex pt-2 pb-2">
-                            <div class="reciever-icon">
-                                <img src="assets/boy.svg" class="w-100">
-                            </div>
-                            <div class="reciever-message">
-                                <span class="inner-reciever-message">Can you help me with it?</span><br/>
-                                <span class="time">10:27 AM</span>
-                            </div>
-                        </div>
-
-                        <div class="sender-wrapper d-flex pt-2 pb-2">
-                            <div class="sender-message">
-                                <span class="inner-sender-message">Sure! Can you help me with your username?</span><br/>
-                                <span class="time-sender">10:27 AM</span>
+                            <div class="sender-wrapper d-flex pt-2 pb-2" *ngIf="data.userType === 'sender'">
+                                <div class="sender-message">
+                                    <span class="inner-sender-message">{{ data.userMessage }}</span><br />
+                                    <span class="time-sender">{{ data.time }}</span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -173,10 +148,11 @@
                             <span class="material-icons right">
                                 attach_file
                             </span>
-                            <input type="text" class="w-100" class="form-control" placeholder="Write your message">
+                            <input type="text" class="w-100" class="form-control" placeholder="Write your message"
+                                [(ngModel)]="userMessage">
                         </div>
                         <div class="chat-send-btn">
-                            <button mat-raised-button color="primary">
+                            <button mat-raised-button color="primary" (click)="sendMessage()">
                                 <span class="material-icons">
                                     send
                                 </span>
