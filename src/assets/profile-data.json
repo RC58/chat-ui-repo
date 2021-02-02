@@ -1,0 +1,52 @@
+[
+    {
+        "userId": 1,
+        "isNotification": false,
+        "count": 0
+    },
+    {
+        "userId": 2,
+        "isNotification": false,
+        "count": 0
+    },
+    {
+        "userId": 3,
+        "isNotification": false,
+        "count": 0
+    },
+    {
+        "userId": 4,
+        "isNotification": true,
+        "count": 2
+    },
+    {
+        "userId": 5,
+        "isNotification": false,
+        "count": 0
+    },
+    {
+        "userId": 6,
+        "isNotification": false,
+        "count": 0
+    },
+    {
+        "userId": 7,
+        "isNotification": false,
+        "count": 0
+    },
+    {
+        "userId": 8,
+        "isNotification": false,
+        "count": 0
+    },
+    {
+        "userId": 9,
+        "isNotification": false,
+        "count": 0
+    },
+    {
+        "userId": 10,
+        "isNotification": false,
+        "count": 0
+    }
+]

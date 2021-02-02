@@ -1,0 +1,586 @@
+[
+    {
+        "channelId": 1,
+        "profileId": 1,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Website",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 1?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 1,
+        "profileId": 2,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Website",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 2?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 1,
+        "profileId": 3,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Website",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 3?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 1,
+        "profileId": 4,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Website",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 4?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 1,
+        "profileId": 5,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Website",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 5?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 1,
+        "profileId": 6,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Website",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 6?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 2,
+        "profileId": 1,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel WhatsApp",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 1?",
+                "time": "10:27 AM"
+            }
+
+        ]
+    },
+    {
+        "channelId": 2,
+        "profileId": 2,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel WhatsApp",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 2?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 2,
+        "profileId": 3,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel WhatsApp",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 3?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 2,
+        "profileId": 4,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel WhatsApp",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 4?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 2,
+        "profileId": 5,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel WhatsApp",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 5?",
+                "time": ""
+            },
+            {
+                "userType": "sender",
+                "userMessage": "username for user 5?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 2,
+        "profileId": 6,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel WhatsApp",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 6?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 3,
+        "profileId": 1,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Messanger",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 1?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 3,
+        "profileId": 2,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Messanger",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 2?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 3,
+        "profileId": 3,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Messanger",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 3?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 3,
+        "profileId": 4,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Messanger",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 4?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 3,
+        "profileId": 5,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Messanger",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username for user 5?",
+                "time": "10:27 AM"
+            }
+        ]
+    },
+    {
+        "channelId": 3,
+        "profileId": 6,
+        "chats": [
+            {
+                "userType": "sender",
+                "userMessage": "Message comming from channel Messanger",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Hello there!",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I need help regarding online banking",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "I was trying to login but it's not working",
+                "time": ""
+            },
+            {
+                "userType": "reciever",
+                "userMessage": "Can you help me with it?",
+                "time": "10:27 AM"
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Sure! Can you help me with your username?",
+                "time": ""
+            },
+            {
+                "userType": "sender",
+                "userMessage": "Can you please provide more details?",
+                "time": "10:27 AM"
+            }
+        ]
+    }
+]
