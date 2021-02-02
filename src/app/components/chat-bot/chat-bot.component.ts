@@ -62,14 +62,14 @@ export class ChatBotComponent implements OnInit {
   }
 
   getUserProfile() {
-    this.http.get('../../../assets/profile-data.json').subscribe(
+    this.http.get('assets/profile-data.json').subscribe(
       (data) => {
         this.userProfile = data;
       });
   }
 
   getUserChat() {
-    this.http.get('../../../assets/user-data.json').subscribe(
+    this.http.get('assets/user-data.json').subscribe(
       (data) => {
         for(let i=0; i< data['length']; i++) {
           if(data[i]['channelId'] === this.activeChannel && data[i]['profileId'] === this.activeChat) {
